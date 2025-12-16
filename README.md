@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Steven Ngoma</h1>
 <h3 align="center">A Passionate Full-Stack Software Engineer</h3>
-  <h4> Paasionate and motivated Full-stack software Engineer with years of working in the tech industry.<br>
+  <h4> Paasionate and motivated Full-stack Software Engineer with years of working in the tech industry.<br>
      looking for self motivated person to work  with you have come to the right place <br>
      #Full-stack Mobile-development -with Flutter<br>
      #Complete Machine Learning(python) Product End-to-End<br>
