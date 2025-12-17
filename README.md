@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm Steven Ngoma</h1>
-<h3 align="center">A Passionate Full-Stack Software Engineer</h3>
-  <h4> Paasionate and motivated Full-stack Software Engineer with years of working in the tech industry.<br>
-     looking for self motivated person to work  with you have come to the right place <br>
-     #Full-stack Mobile-development -with Flutter<br>
-     #Complete Machine Learning(python) Product End-to-End<br>
-     #Full stack Web development <br>
-     
-  </h4>
-  
+<h3 align="center">Full-Stack Software Engineer</h3>
 
-- 📫 How to reach me **stevenngoma697@gmail.com**
+<h4>
+Motivated and detail-oriented Full-Stack Software Engineer with a strong foundation in building scalable, user-focused applications.<br><br>
+
+I specialize in designing, developing, and deploying end-to-end solutions across web, mobile, and machine learning domains. I enjoy collaborating with driven teams and turning ideas into reliable, real-world products.<br><br>
+
+🔹 Full-Stack Mobile Development (Flutter)<br>
+🔹 End-to-End Machine Learning Solutions (Python)<br>
+🔹 Full-Stack Web Development<br>
+</h4>
+
+- 📫 How to reach me: <strong>stevenngoma697@gmail.com</strong>
+
 
 
 <p align="left">
