@@ -2,13 +2,17 @@
 <h3 align="center">Full-Stack Software Engineer</h3>
 
 <h4>
-Motivated and detail-oriented Full-Stack Software Engineer with a strong foundation in building scalable, user-focused applications.<br><br>
+ Self Motivated and  Full-Stack Software Engineer with a strong foundation in building scalable, user-focused applications. I’m passionate about writing clean, maintainable code and solving real-world problems through thoughtful software design.
 
-I specialize in designing, developing, and deploying end-to-end solutions across web, mobile, and machine learning domains. I enjoy collaborating with driven teams and turning ideas into reliable, real-world products.<br><br>
+I specialize in designing, developing, and deploying end-to-end solutions across web, mobile, and machine learning domains. From concept to production, I enjoy being involved in every stage of development and take pride in delivering reliable, high-quality products. I work well in collaborative, fast-paced environments and enjoy learning from others while contributing meaningful ideas.
 
-🔹 Full-Stack Mobile Development (Flutter)<br>
-🔹 End-to-End Machine Learning Solutions (Python)<br>
-🔹 Full-Stack Web Development<br>
+My experience spans full-stack mobile development using Flutter, building responsive and efficient web applications, and developing end-to-end machine learning solutions with Python. I’m always eager to explore new technologies, improve my skill set, and take on challenges that push me to grow as an engineer.
+
+🔹 Full-Stack Mobile Development (Flutter)
+🔹 End-to-End Machine Learning Solutions (Python)
+🔹 Full-Stack Web Development
+
+
 </h4>
 
 - 📫 How to reach me: <strong>stevenngoma697@gmail.com</strong>
